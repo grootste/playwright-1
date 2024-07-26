@@ -4,7 +4,7 @@
 
 ## [Documentation](https://playwright.dev) | [API reference](https://playwright.dev/docs/api/class-playwright)
 
-Playwright is a framework for Web Testing and Automation. It allows testing [Chromium](https://www.chromium.org/Home), [Firefox](https://www.mozilla.org/en-US/firefox/new/) and [WebKit](https://webkit.org/) with a single API. Playwright is built to enable cross-browser web automation that is **ever-green**, **capable**, **reliable** and **fast**.
+Playwright is a framework for Web Testing and Automation. It allows testing [Chromium](https://www.chromium.org/Home), [Firefox](https://www.mozilla.org/en-US/firefox/new/) and [WebKit](https://webkit.org/) with a single API. Playwright is built to enable cross-browser web automation that is **ever-green**, **capable**, **reliable**, and **fast**.
 
 |          | Linux | macOS | Windows |
 |   :---   | :---: | :---: | :---:   |
@@ -18,11 +18,11 @@ Looking for Playwright for [Python](https://playwright.dev/python/docs/intro), [
 
 ## Installation
 
-Playwright has its own test runner for end-to-end tests, we call it Playwright Test.
+Playwright has its test runner for end-to-end tests, we call it Playwright Test.
 
 ### Using init command
 
-The easiest way to get started with Playwright Test is to run the init command.
+The easiest way to start with Playwright Test is to run the init command.
 
 ```Shell
 # Run from your project's root directory
